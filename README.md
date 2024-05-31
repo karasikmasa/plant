@@ -1,4 +1,4 @@
-# plant
+# plant1
 class Plant:
     def __init__(self, name, species, water_frequency, sunlight):
         self.name = name
